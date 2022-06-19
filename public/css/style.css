@@ -40,11 +40,18 @@ background-size: 80%;
     }   
     
 .body-hamilton {
-background-image: url('../img/Alexander_Hamilton.jpg');
+background-image: url('../img/Margaret_Hamilton-780x971.gif');
 background-repeat: no-repeat;
 background-position: right 0;
 background-size: 70% 100%;
 }   
+
+.body-hopper {
+    background-image: url('../img/hopper.jpg');
+    background-repeat: no-repeat;
+    background-position: right 0;
+    background-size: 70% 100%;
+    }
 nav{
     text-align: center;
     background-color: rgb(255, 255, 255);
